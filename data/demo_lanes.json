@@ -1,0 +1,137 @@
+[
+  {
+    "lane_id": "ATL-MARIETTA",
+    "origin": "Atlanta Ramp",
+    "destination": "Marietta GA"
+  },
+  {
+    "lane_id": "BNA-BEAVER",
+    "origin": "Nashville Ramp",
+    "destination": "Beaver Dam KY"
+  },
+  {
+    "lane_id": "CHI-NEW",
+    "origin": "Chicago Ramp",
+    "destination": "Newaygo MI"
+  },
+  {
+    "lane_id": "CHI-RFD",
+    "origin": "Chicago Ramp",
+    "destination": "Rockford IL"
+  },
+  {
+    "lane_id": "CHS-FTM",
+    "origin": "Charleston SC",
+    "destination": "Fort Mill SC"
+  },
+  {
+    "lane_id": "CHS-LEB",
+    "origin": "Charleston SC",
+    "destination": "Lebanon TN"
+  },
+  {
+    "lane_id": "CHS-MAD",
+    "origin": "Charleston SC",
+    "destination": "Madison TN"
+  },
+  {
+    "lane_id": "CIN-LEX",
+    "origin": "Cincinnati Ramp",
+    "destination": "Lexington KY"
+  },
+  {
+    "lane_id": "HOU-DESOTO",
+    "origin": "Houston TX",
+    "destination": "DeSoto TX"
+  },
+  {
+    "lane_id": "HOU-SAT",
+    "origin": "Houston TX",
+    "destination": "San Antonio TX"
+  },
+  {
+    "lane_id": "JAX-LAKE",
+    "origin": "Jacksonville FL",
+    "destination": "Lake Wales FL"
+  },
+  {
+    "lane_id": "LAX-ONT",
+    "origin": "Los Angeles CA",
+    "destination": "Ontario CA"
+  },
+  {
+    "lane_id": "MKC-BELOIT",
+    "origin": "Kansas City Ramp",
+    "destination": "Beloit KS"
+  },
+  {
+    "lane_id": "MSY-SIMSBORO",
+    "origin": "New Orleans Port",
+    "destination": "Simsboro LA"
+  },
+  {
+    "lane_id": "NY-HAT",
+    "origin": "New York NY",
+    "destination": "Hatfield MA"
+  },
+  {
+    "lane_id": "NY-PWM",
+    "origin": "New York NY",
+    "destination": "Portland ME"
+  },
+  {
+    "lane_id": "OAK-SAC",
+    "origin": "Oakland CA",
+    "destination": "Sacramento CA"
+  },
+  {
+    "lane_id": "OAK-VERDI",
+    "origin": "Oakland CA",
+    "destination": "Verdi NV"
+  },
+  {
+    "lane_id": "ORF-SAND",
+    "origin": "Norfolk VA",
+    "destination": "Sandston VA"
+  },
+  {
+    "lane_id": "ORF-SHEP",
+    "origin": "Norfolk VA",
+    "destination": "Shepherdsville KY"
+  },
+  {
+    "lane_id": "PEV-DEER",
+    "origin": "Port Everglades FL",
+    "destination": "Deerfield Beach FL"
+  },
+  {
+    "lane_id": "PEV-LAKE",
+    "origin": "Port Everglades FL",
+    "destination": "Lake Wales FL"
+  },
+  {
+    "lane_id": "SAV-FTM",
+    "origin": "Savannah GA",
+    "destination": "Fort Mill SC"
+  },
+  {
+    "lane_id": "SDF-BEAVER",
+    "origin": "Louisville Ramp",
+    "destination": "Beaver Dam KY"
+  },
+  {
+    "lane_id": "SDF-LEX",
+    "origin": "Louisville Ramp",
+    "destination": "Lexington KY"
+  },
+  {
+    "lane_id": "SDF-SHEP",
+    "origin": "Louisville Ramp",
+    "destination": "Shepherdsville KY"
+  },
+  {
+    "lane_id": "SLC-BRIG",
+    "origin": "Salt Lake City Ramp",
+    "destination": "Brigham City UT"
+  }
+]

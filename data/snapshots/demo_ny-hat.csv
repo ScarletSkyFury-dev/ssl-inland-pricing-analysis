@@ -1,0 +1,7 @@
+snapshot_date,lane,carrier,rate_usd,status,method,components,notes,dataset_kind
+2026-01-12,New York NY to Hatfield MA,Maersk,1389.00,Available,component_sum,1179.00 + 120.00 + 90.00,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,New York NY to Hatfield MA,MSC,1441.00,Available,component_sum,1231.00 + 120.00 + 90.00,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,New York NY to Hatfield MA,Hapag-Lloyd,1483.00,Available,component_sum,1273.00 + 120.00 + 90.00,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,New York NY to Hatfield MA,SSL Average,1437.67,Calculated,average,,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,New York NY to Hatfield MA,Commercial demo,1317.00,Calculated,demo_package,,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,New York NY to Hatfield MA,Commercial demo 2-day equivalent,1062.00,Calculated,normalized_estimate,,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo

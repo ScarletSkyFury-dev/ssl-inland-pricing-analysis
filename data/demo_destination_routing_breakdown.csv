@@ -1,0 +1,4 @@
+destination,origin_or_ramp,teus_2026,containers_40ft,maersk_usd,msc_usd,hapag_lloyd_usd,hapag_status,ssl_average_usd,commercial_rate_usd,commercial_2day_equivalent_usd,saving_per_container_usd,saving_ytd_usd,notes,dataset_kind
+Fort Mill SC,Charleston SC,46,23,859.00,,953.00,Available,906.00,787.00,627.00,279.00,6417.00,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings; All-in demo; analytical equivalent range USD 587.00 to 667.00",synthetic_demo
+Fort Mill SC,Savannah GA,22,11,1813.00,1865.00,1907.00,Available,1861.67,1741.00,1581.00,280.67,3087.33,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings; All-in demo; analytical equivalent range USD 1541.00 to 1621.00",synthetic_demo
+Fort Mill SC,DESTINATION CONSOLIDATED,68,34,,,,,1215.19,1095.65,935.65,279.54,9504.33,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings; volume-weighted across demo routes",synthetic_demo

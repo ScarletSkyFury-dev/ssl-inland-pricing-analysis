@@ -1,0 +1,7 @@
+snapshot_date,lane,carrier,rate_usd,status,method,components,notes,dataset_kind
+2026-01-12,Chicago Ramp to Newaygo MI,Maersk,753.00,Available,component_sum,543.00 + 120.00 + 90.00,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,Chicago Ramp to Newaygo MI,MSC,805.00,Available,component_sum,595.00 + 120.00 + 90.00,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,Chicago Ramp to Newaygo MI,Hapag-Lloyd,847.00,Available,component_sum,637.00 + 120.00 + 90.00,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,Chicago Ramp to Newaygo MI,SSL Average,801.67,Calculated,average,,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,Chicago Ramp to Newaygo MI,Commercial demo,681.00,Calculated,demo_package,,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo
+2026-01-12,Chicago Ramp to Newaygo MI,Commercial demo 2-day equivalent,426.00,Calculated,normalized_estimate,,"SYNTHETIC DEMO - not quotes, shipments, actual volumes or realized savings",synthetic_demo

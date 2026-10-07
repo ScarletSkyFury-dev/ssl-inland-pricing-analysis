@@ -1,0 +1,142 @@
+[
+  {
+    "path": "data/demo_destination_routing_breakdown.csv",
+    "headers": [
+      "destination",
+      "origin_or_ramp",
+      "teus_2026",
+      "containers_40ft",
+      "maersk_usd",
+      "msc_usd",
+      "hapag_lloyd_usd",
+      "hapag_status",
+      "ssl_average_usd",
+      "commercial_rate_usd",
+      "commercial_2day_equivalent_usd",
+      "saving_per_container_usd",
+      "saving_ytd_usd",
+      "notes",
+      "dataset_kind"
+    ]
+  },
+  {
+    "path": "data/demo_destination_worklist.csv",
+    "headers": [
+      "destination",
+      "teus_2026",
+      "equivalent_40ft_containers",
+      "rail_ramp",
+      "maersk_usd",
+      "msc_usd",
+      "hapag_lloyd_usd",
+      "ssl_average_usd",
+      "commercial_rate_usd",
+      "commercial_2day_equivalent_usd",
+      "status",
+      "notes",
+      "dataset_kind"
+    ]
+  },
+  {
+    "path": "data/demo_top12_destination.csv",
+    "headers": [
+      "rank",
+      "destination",
+      "teus_2026",
+      "equivalent_40ft_containers",
+      "lane_or_drayage_basis",
+      "maersk_usd",
+      "msc_usd",
+      "hapag_lloyd_usd",
+      "ssl_average_usd",
+      "commercial_rate_usd",
+      "commercial_quote_basis",
+      "commercial_2day_equivalent_usd",
+      "saving_per_container_usd",
+      "estimated_ytd_saving_usd",
+      "status",
+      "notes",
+      "dataset_kind"
+    ]
+  },
+  {
+    "path": "data/market_benchmarks.csv",
+    "headers": [
+      "lane_id",
+      "origin",
+      "destination",
+      "benchmark_type",
+      "provider_or_source",
+      "rate_usd",
+      "quoted_on",
+      "valid_until",
+      "notes",
+      "dataset_kind"
+    ]
+  },
+  {
+    "path": "data/master_current.csv",
+    "headers": [
+      "lane_id",
+      "origin",
+      "destination",
+      "maersk_usd",
+      "maersk_status",
+      "msc_usd",
+      "msc_status",
+      "hapag_lloyd_usd",
+      "hapag_status",
+      "average_ssl_usd",
+      "current_ssl_winner",
+      "quote_reference",
+      "validity_period",
+      "notes",
+      "dataset_kind"
+    ]
+  },
+  {
+    "path": "data/rates_history.csv",
+    "headers": [
+      "lane_id",
+      "origin",
+      "destination",
+      "carrier",
+      "rate_usd",
+      "status",
+      "quote_date",
+      "quote_period_start",
+      "quote_period_end",
+      "validity_period",
+      "method",
+      "components",
+      "source_note",
+      "is_current",
+      "dataset_kind"
+    ]
+  },
+  {
+    "path": "data/demo_top10_refresh.csv",
+    "headers": [
+      "rank",
+      "volume_40ft",
+      "port_origin",
+      "rail_ramp",
+      "delivery",
+      "maersk_usd",
+      "maersk_status",
+      "msc_usd",
+      "msc_status",
+      "hapag_lloyd_usd",
+      "hapag_status",
+      "ssl_average_usd",
+      "commercial_best_usd",
+      "commercial_normalized_2day_chassis_usd",
+      "commercial_normalization_status",
+      "commercial_notes",
+      "quote_date",
+      "refresh_status",
+      "notes",
+      "dataset_kind"
+    ]
+  }
+]
